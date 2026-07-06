@@ -42,8 +42,6 @@
 
 // });
 const cds=require('@sap/cds');
-
-
 const { SELECT } = require('@sap/cds/lib/ql/cds-ql');
 module.exports=cds.service.impl(async function(){
     this.on('READ','EmployeeLeave',async (req)=>{
