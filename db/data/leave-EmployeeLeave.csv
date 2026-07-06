@@ -1,0 +1,6 @@
+ID,employeeId,employeeName,leaveType,fromDate,toDate,status
+550e8400-e29b-41d4-a716-446655440001,EMP001,John Doe,Annual Leave,2026-07-01,2026-07-05,Pending
+550e8400-e29b-41d4-a716-446655440002,EMP002,Jane Smith,Sick Leave,2026-07-10,2026-07-12,Approved
+550e8400-e29b-41d4-a716-446655440003,EMP003,Michael Johnson,Casual Leave,2026-07-15,2026-07-16,Pending
+550e8400-e29b-41d4-a716-446655440004,EMP004,Sarah Wilson,Maternity Leave,2026-08-01,2026-10-31,Approved
+550e8400-e29b-41d4-a716-446655440005,EMP005,David Brown,Work From Home,2026-07-20,2026-07-20,Rejected
